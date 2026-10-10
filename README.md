@@ -140,7 +140,7 @@ I’m currently exploring **game development** and **operating system developmen
 <div align="center">
 
 **Total contributions this year:**  
-<!-- CONTRIBUTIONS_START -->0<!-- CONTRIBUTIONS_END -->
+<!-- CONTRIBUTIONS_START -->207<!-- CONTRIBUTIONS_END -->
 
 <br/>
 
