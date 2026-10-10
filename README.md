@@ -106,7 +106,7 @@
 ## 📈 This year's contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairajKhilariArch&theme=react-dark&hide_border=true&area=true&area_color=8b5cf6" alt="Contribution activity graph" />
+  <img src="https://ghchart.rshah.org/8b5cf6/sairajKhilariArch" alt="Sairaj Khilari's GitHub contribution calendar" />
 </p>
 
 <p align="center">
