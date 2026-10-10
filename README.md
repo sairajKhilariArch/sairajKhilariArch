@@ -23,7 +23,6 @@
 
 ## ✨ About me
 
-```html
 <div align="center">
 
 I’m an MCA student at **Parul University, Vadodara, Gujarat**, focused on building a strong foundation in  
@@ -33,9 +32,8 @@ My primary language is **Rust**, with **Python** as my second language.
 I’m currently exploring **game development** and **operating system development**, while using and customizing **Arch Linux**.
 
 </div>
-```
 
-> **Note:** Do **not** include the outer ` ```html ` and ` ``` ` lines in your actual README. They are only showing you where the HTML block begins and ends.
+---
 
 ## 🚀 What I’m working on
 
