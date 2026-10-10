@@ -1,39 +1,51 @@
 <h1 align="center">Hi 👋, I'm Sairaj Khilari</h1>
 
-<h3 align="center">Arch Linux user • Hyprland ricer • Hardware tinkerer</h3>
+<h3 align="center">Rust & Python developer • MCA student • Game & OS development enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Arch+Linux+user%2C+btw;Hyprland+and+terminal+customization;Learning+Linux+system+configuration;Exploring+hardware+and+BIOS+setup" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Rust+and+Python+developer;MCA+student+at+Parul+University;Exploring+game+development;Learning+operating+system+development;Arch+Linux+user%2C+btw" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🔭 I’m currently working on
 
-- Customizing my **Arch Linux** setup with **Hyprland**, SDDM themes, terminal tools, and dotfiles.
-- Learning more about Linux system installation, bootloaders, package management, and system-level configuration.
-- Exploring hardware setup, motherboard configuration, and BIOS management.
+- Building projects with **Rust**, my primary programming language.
+- Developing applications and tools with **Python**.
+- Exploring **game development** and **operating system development**.
+- Customizing my **Arch Linux** setup with Hyprland, SDDM, terminal tools, and dotfiles.
 
 ## 🌱 I’m currently learning
 
-- Advanced **Arch Linux** installation and maintenance.
-- Bootloaders such as **systemd-boot** and **GRUB**.
-- Linux permissions, Polkit, sudo configuration, networking, and shell scripting.
-- Desktop customization with Hyprland, Wayland, SDDM, and terminal aesthetics.
+- Advanced **Rust**: ownership, borrowing, lifetimes, traits, error handling, and systems programming.
+- **Python** for automation, scripting, backend development, and rapid prototyping.
+- **Game development** concepts, engines, graphics, and gameplay programming.
+- **Operating system development**: kernels, memory management, processes, drivers, and low-level systems concepts.
+- Advanced **Arch Linux** configuration, bootloaders, package management, and system troubleshooting.
+
+## 🎓 Education
+
+- Pursuing **Master of Computer Applications (MCA)** at **Parul University, Vadodara, Gujarat, India**.
 
 ## 👯 I’m looking to collaborate on
 
-- Arch Linux dotfiles, installation scripts, Hyprland configurations, and Linux customization projects.
+- Rust or Python projects.
+- Game development experiments and small game engines.
+- Operating system, kernel, or low-level systems programming projects.
+- Arch Linux dotfiles, Hyprland configurations, and Linux customization tools.
 
 ## 🤔 I’m looking for help with
 
-- Improving my Linux system configuration, scripting, and open-source workflow.
+- Rust systems programming and best practices.
+- Game engine architecture and graphics programming.
+- OS development and low-level programming concepts.
 
 ## 💬 Ask me about
 
-- Arch Linux installation and troubleshooting.
-- Hyprland, SDDM, terminal customization, and Linux theming.
-- Hardware components, motherboards, BIOS settings, and system setup.
+- Rust and Python.
+- Arch Linux installation, Hyprland, SDDM, and terminal customization.
+- Game development and operating system development.
+- Hardware, motherboards, BIOS configuration, and Linux system setup.
 
 ## 📫 How to reach me
 
@@ -49,9 +61,11 @@
 
 ---
 
-## 🛠️ Tech and tools
+## 🛠️ Languages and tools
 
 <p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -59,6 +73,16 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
+
+## 🎯 Current focus
+
+| Area | Focus |
+|---|---|
+| Primary language | **Rust** |
+| Secondary language | **Python** |
+| Education | **MCA at Parul University, Vadodara** |
+| Development interests | **Game development** and **operating system development** |
+| System interests | **Arch Linux**, Hyprland, terminal customization, hardware, and BIOS |
 
 ## 🖥️ My setup
 
