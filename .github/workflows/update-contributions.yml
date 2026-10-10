@@ -1,3 +1,4 @@
+
 name: Update yearly contributions
 
 on:
@@ -20,25 +21,45 @@ jobs:
         id: contributions
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
         run: |
-          COUNT=$(gh api graphql -f query='
-            query($user: String!) {
-              user(login: $user) {
-                contributionsCollection {
-                  contributionCalendar {
-                    totalContributions
+          set -euo pipefail
+
+          FROM="$(date -u +%Y)-01-01T00:00:00Z"
+          TO="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
+          COUNT=$(gh api graphql \
+            -f query='
+              query($user: String!, $from: DateTime!, $to: DateTime!) {
+                user(login: $user) {
+                  contributionsCollection(from: $from, to: $to) {
+                    contributionCalendar {
+                      totalContributions
+                    }
                   }
                 }
               }
-            }
-          ' -F user=sairajKhilariArch --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+            ' \
+            -F user=sairajKhilariArch \
+            -F from="$FROM" \
+            -F to="$TO" \
+            --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
 
+          if [[ ! "$COUNT" =~ ^[0-9]+$ ]]; then
+            echo "Invalid contribution count: $COUNT"
+            exit 1
+          fi
+
+          echo "Contribution count for this year: $COUNT"
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
 
       - name: Update README
         env:
           COUNT: ${{ steps.contributions.outputs.count }}
+        shell: bash
         run: |
+          set -euo pipefail
+
           python3 - <<'PY'
           import os
           import pathlib
@@ -49,19 +70,36 @@ jobs:
           start = "<!-- CONTRIBUTIONS_START -->"
           end = "<!-- CONTRIBUTIONS_END -->"
 
+          if text.count(start) != 1 or text.count(end) != 1:
+              raise SystemExit(
+                  "README.md must contain exactly one "
+                  "CONTRIBUTIONS_START and one CONTRIBUTIONS_END marker."
+              )
+
           before, rest = text.split(start, 1)
           _, after = rest.split(end, 1)
 
           count = os.environ["COUNT"]
-          readme.write_text(f"{before}{start}{count}{end}{after}", encoding="utf-8")
+          updated = f"{before}{start}{count}{end}{after}"
+
+          if updated != text:
+              readme.write_text(updated, encoding="utf-8")
+              print(f"README updated to {count}")
+          else:
+              print(f"Contribution count unchanged: {count}")
           PY
 
       - name: Commit and push changes
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
         run: |
+          set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet; then
+          if git diff --quiet -- README.md; then
             echo "No changes to commit"
             exit 0
           fi
