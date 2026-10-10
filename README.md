@@ -110,6 +110,11 @@
 </p>
 
 <p align="center">
+  <strong>Total contributions this year:</strong>
+  <!-- CONTRIBUTIONS_START -->0<!-- CONTRIBUTIONS_END -->
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=sairajKhilariArch&locale=en&mode=daily&theme=radical&hide_border=true" alt="GitHub streak stats" />
 </p>
 
