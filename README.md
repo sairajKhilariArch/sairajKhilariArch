@@ -1,125 +1,178 @@
-<h1 align="center">Hi 👋, I'm Sairaj Khilari</h1>
+<div align="center">
 
-<h3 align="center">Rust & Python developer • MCA student • Game & OS development enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6d28d9,100:f97316&height=180&section=header&text=Sairaj%20Khilari&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Rust%20•%20Python%20•%20Game%20Dev%20•%20OS%20Dev&descSize=18&descAlignY=65" alt="Sairaj Khilari banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Rust+and+Python+developer;MCA+student+at+Parul+University;Exploring+game+development;Learning+operating+system+development;Arch+Linux+user%2C+btw" alt="Typing SVG" />
-</p>
+# Hi, I'm Sairaj Khilari 👋
+
+**MCA student at Parul University, Vadodara**  
+**Rust-first developer • Python developer • Game & OS development enthusiast**
+
+<a href="https://github.com/sairajKhilariArch">
+  <img src="https://img.shields.io/badge/GitHub-sairajKhilariArch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Rust%20%7C%20Python-f97316?style=for-the-badge&logo=rust&logoColor=white" alt="Focus" />
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Building+with+Rust+and+Python;Exploring+game+development;Learning+operating+system+development;Arch+Linux+user%2C+btw" alt="Typing animation" />
+
+</div>
 
 ---
 
-## 🔭 I’m currently working on
+## ✨ About me
 
-- Building projects with **Rust**, my primary programming language.
-- Developing applications and tools with **Python**.
-- Exploring **game development** and **operating system development**.
-- Customizing my **Arch Linux** setup with Hyprland, SDDM, terminal tools, and dotfiles.
+```html
+<div align="center">
 
-## 🌱 I’m currently learning
+I’m an MCA student at **Parul University, Vadodara, Gujarat**, focused on building a strong foundation in  
+**systems programming, software development, and low-level computing**.
 
-- Advanced **Rust**: ownership, borrowing, lifetimes, traits, error handling, and systems programming.
-- **Python** for automation, scripting, backend development, and rapid prototyping.
-- **Game development** concepts, engines, graphics, and gameplay programming.
-- **Operating system development**: kernels, memory management, processes, drivers, and low-level systems concepts.
-- Advanced **Arch Linux** configuration, bootloaders, package management, and system troubleshooting.
+My primary language is **Rust**, with **Python** as my second language.  
+I’m currently exploring **game development** and **operating system development**, while using and customizing **Arch Linux**.
+
+</div>
+```
+
+> **Note:** Do **not** include the outer ` ```html ` and ` ``` ` lines in your actual README. They are only showing you where the HTML block begins and ends.
+
+## 🚀 What I’m working on
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🦀 Rust
+
+- Learning ownership, borrowing, lifetimes, traits, and error handling
+- Building CLI tools and systems-oriented projects
+- Exploring Rust for performance-critical and low-level development
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 Python
+
+- Automation, scripting, and rapid prototyping
+- Building small tools and backend experiments
+- Using Python alongside Rust for practical development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Game Development
+
+- Learning gameplay programming and engine concepts
+- Exploring graphics, physics, input, and game architecture
+- Building small games and development experiments
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ OS Development
+
+- Learning kernels, memory, processes, and system internals
+- Exploring low-level programming and hardware interaction
+- Studying how operating systems work from the ground up
+
+</td>
+</tr>
+</table>
 
 ## 🎓 Education
 
-- Pursuing **Master of Computer Applications (MCA)** at **Parul University, Vadodara, Gujarat, India**.
+<div align="center">
 
-## 👯 I’m looking to collaborate on
+**Master of Computer Applications (MCA)**  
+**Parul University • Vadodara, Gujarat, India**
 
-- Rust or Python projects.
-- Game development experiments and small game engines.
-- Operating system, kernel, or low-level systems programming projects.
-- Arch Linux dotfiles, Hyprland configurations, and Linux customization tools.
+</div>
 
-## 🤔 I’m looking for help with
+## 🛠️ Tech stack
 
-- Rust systems programming and best practices.
-- Game engine architecture and graphics programming.
-- OS development and low-level programming concepts.
+<div align="center">
 
-## 💬 Ask me about
+<img src="https://skillicons.dev/icons?i=rust,python,linux,bash,git,github,neovim,vscode,md&theme=dark" alt="Tech stack" />
 
-- Rust and Python.
-- Arch Linux installation, Hyprland, SDDM, and terminal customization.
-- Game development and operating system development.
-- Hardware, motherboards, BIOS configuration, and Linux system setup.
+<br/><br/>
 
-## 📫 How to reach me
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/Hyprland-1E1E2E?style=flat-square&logo=linux&logoColor=8b5cf6" alt="Hyprland" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 
-- GitHub: [@sairajKhilariArch](https://github.com/sairajKhilariArch)
+</div>
 
-## 😄 Pronouns
+## 🐧 My Linux setup
 
-- He/Him
+<div align="center">
 
-## ⚡ Fun fact
-
-- I use Arch Linux, btw.
-
----
-
-## 🛠️ Languages and tools
-
-<p>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-</p>
-
-## 🎯 Current focus
-
-| Area | Focus |
+| Component | Setup |
 |---|---|
-| Primary language | **Rust** |
-| Secondary language | **Python** |
-| Education | **MCA at Parul University, Vadodara** |
-| Development interests | **Game development** and **operating system development** |
-| System interests | **Arch Linux**, Hyprland, terminal customization, hardware, and BIOS |
+| Distribution | **Arch Linux** |
+| Window manager | **Hyprland** |
+| Display manager | **SDDM** |
+| Shell | **Zsh / Bash** |
+| Terminal | **Kitty / Alacritty** |
+| Editor | **Neovim** |
+| Aesthetic | Minimal, dark, keyboard-driven |
 
-## 🖥️ My setup
+</div>
 
-- **Distribution:** Arch Linux  
-- **Window manager:** Hyprland  
-- **Display manager:** SDDM  
-- **Shell:** Zsh / Bash  
-- **Terminal:** Kitty / Alacritty  
-- **Focus:** Minimal, dark, customizable Linux desktop  
+## 📊 GitHub analytics
 
-## 📊 GitHub stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairajKhilariArch&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sairajKhilariArch&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f97316&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajKhilariArch&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top languages" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajKhilariArch&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
+<br/><br/>
 
-## 📈 This year's contributions
+<img src="https://streak-stats.demolab.com?user=sairajKhilariArch&locale=en&mode=daily&theme=radical&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=f97316" alt="GitHub streak stats" />
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/8b5cf6/sairajKhilariArch" alt="Sairaj Khilari's GitHub contribution calendar" />
-</p>
+</div>
 
-<p align="center">
-  <strong>Total contributions this year:</strong>
-  <!-- CONTRIBUTIONS_START -->0<!-- CONTRIBUTIONS_END -->
-</p>
+## 📈 This year’s contributions
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sairajKhilariArch&locale=en&mode=daily&theme=radical&hide_border=true" alt="GitHub streak stats" />
-</p>
+<div align="center">
+
+**Total contributions this year:**  
+<!-- CONTRIBUTIONS_START -->0<!-- CONTRIBUTIONS_END -->
+
+<br/>
+
+<img src="https://ghchart.rshah.org/8b5cf6/sairajKhilariArch" alt="Sairaj Khilari's GitHub contribution calendar" width="100%" />
+
+</div>
+
+## 🤝 Let’s collaborate
+
+I’m interested in collaborating on:
+
+- **Rust** and **Python** projects  
+- Game development experiments  
+- Operating system and low-level systems projects  
+- Arch Linux dotfiles, Hyprland configurations, and developer tooling  
+
+## 📫 Connect with me
+
+<div align="center">
+
+<a href="https://github.com/sairajKhilariArch">
+  <img src="https://img.shields.io/badge/GitHub-%40sairajKhilariArch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sairajKhilariArch&label=Profile+views&color=8b5cf6&style=flat-square" alt="Profile views" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:6d28d9,100:8b5cf6&height=120&section=footer" alt="Footer" />
+
+</div>
