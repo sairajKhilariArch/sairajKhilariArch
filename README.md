@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sairaj Khilari</h1>
 
 <h3 align="center">Linux enthusiast • Arch Linux user • Hardware tinkerer</h3>
