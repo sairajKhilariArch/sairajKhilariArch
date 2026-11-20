@@ -149,20 +149,20 @@ I enjoy experimenting with Linux customization and building a development enviro
 
 <div align="center">
 
-<div display="inline-block">
+<div style="display:inline-block;">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sairajKhilariArch&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f97316&text_color=c9d1d9" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sairajKhilariArch&show_icons=true&theme=radical&hide_border=true&bg_color=161616&title_color=8b5cf6&icon_color=f97316&text_color=c9d1d9" alt="GitHub statistics" />
 
 </div>
-<div display="inline-block" style="margin-left:18px;">
+<div style="display:inline-block;margin-left:18px;">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajKhilariArch&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajKhilariArch&layout=compact&theme=radical&hide_border=true&bg_color=161616&title_color=8b5cf6&text_color=c9d1d9" alt="Most used programming languages" />
 
 </div>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sairajKhilariArch&locale=en&mode=daily&theme=radical&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=f97316" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=sairajKhilariArch&locale=en&mode=daily&theme=radical&hide_border=true&background=161616&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=f97316" alt="GitHub contribution streak" />
 
 </div>
 
