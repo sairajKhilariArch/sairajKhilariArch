@@ -162,7 +162,7 @@ I enjoy experimenting with Linux customization and building a development enviro
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sairajKhilariArch&locale=en&mode=daily&theme=radial&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=f97316" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=sairajKhilariArch&locale=en&mode=daily&theme=radical&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=f97316" alt="GitHub contribution streak" />
 
 </div>
 
