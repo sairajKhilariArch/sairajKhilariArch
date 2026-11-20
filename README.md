@@ -1,31 +1,32 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,25:4c1d95,55:8b5cf6,80:f97316,100:09090b&height=220&section=header&text=Sairaj%20Khilari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Rust%20%E2%80%A2%20Python%20%E2%80%A2%20Game%20Dev%20%E2%80%A2%20OS%20Dev&descSize=17&descAlignY=58" width="100%" alt="Sairaj Khilari animated banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,30:f97316,65:6d28d9,100:8b5cf6&height=200&section=header&text=Sairaj%20Khilari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Sairaj Khilari animated banner" />
 
-<a href="https://github.com/sairajKhilariArch">
-  <img src="https://img.shields.io/badge/GitHub-sairajKhilariArch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Rust%20%7C%20Python-f97316?style=for-the-badge&logo=rust&logoColor=white" alt="Rust and Python focus" />
-<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+with+Rust+and+Python;Exploring+Game+Development;Learning+Operating+System+Development;Arch+Linux+%2B+Hyprland;Curious+about+how+things+work+under+the+hood" alt="Animated developer introduction" />
-
-<br/>
-
-<a href="#-about-me">About</a> •
-<a href="#-what-im-working-on">Projects & Learning</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-my-linux-setup">Linux Setup</a> •
-<a href="#-github-analytics">GitHub Stats</a> •
-<a href="#-lets-collaborate">Collaborate</a>
+<img align="center" src="https://avatars.githubusercontent.com/u/157227948?v=4&s=200" width="120" alt="avatar" />
 
 </div>
 
----
+<div align="center">
+
+# **SAIRAJ KHILARI**
+
+*<i>Rust-first developer · Python developer · Game & OS development enthusiast</i>*
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Rust%20%7C%20Python-8b5cf6?style=for-the-badge&logo=rust&logoColor=white" alt="Rust and Python focus" />
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/ENV-Hyprland-1E1E2E?style=for-the-badge&logo=linux&logoColor=8b5cf6" alt="Hyprland" />
+
+<br/><br/>
+
+<a href="https://github.com/sairajKhilariArch">
+  <img src="https://img.shields.io/badge/GitHub-%40sairajKhilariArch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+</div>
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -35,81 +36,41 @@
 
 **MCA student at Parul University, Vadodara, Gujarat, India**
 
-*Rust-first developer • Python developer • Game & OS development enthusiast*
-
 </div>
 
-I'm focused on building a strong foundation in **systems programming, software development, and low-level computing**.
+I'm focused on building a strong foundation in **systems programming, software development, and low-level computing**. My primary language is **Rust**, with **Python** as my second language. I'm exploring game development and operating system development while using and customizing Arch Linux.
 
-My primary language is **Rust**, with **Python** as my second language. I'm exploring game development and operating system development while using and customizing Arch Linux.
-
-- 🦀 Learning Rust for safe, efficient, and performance-oriented software.
-- 🐍 Using Python for scripting, automation, and rapid prototyping.
-- 🎮 Exploring game mechanics, graphics, physics, and game architecture.
-- ⚙️ Studying kernels, memory management, processes, and system internals.
-- 🐧 Customizing my Arch Linux environment with Hyprland.
-- 🔬 Learning by experimenting, building projects, and understanding how things work internally.
+- 🦀 **Rust** — safe, efficient, performance-oriented software.
+- 🐍 **Python** — scripting, automation, and rapid prototyping.
+- 🎮 **Game Development** — gameplay, graphics, physics, and architecture.
+- ⚙️ **OS Development** — kernels, memory management, processes, and system internals.
+- 🐧 **Arch Linux** — customizing my environment with **Hyprland**.
+- 🔬 **Learning by experimenting** — building projects and understanding how things work internally.
 
 > **My philosophy:** Understand the fundamentals, build from the ground up, and never stop experimenting.
 
 ---
 
-## 🚀 What I'm Working On
+## 📦 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<h3>🦀 Rust</h3>
+### 🚀 What I'm Working On
 
-<img src="https://img.shields.io/badge/STATUS-Learning%20%26%20Building-8b5cf6?style=flat-square" alt="Rust learning status" />
+| Project | Description | Stack | Stars |
+|:---|:---|:---|:---|
+| [Saarthi-Studio](https://github.com/sairajKhilariArch/Saarthi-Studio) | A Rust-powered desktop workspace for connecting multiple AI tools | Rust | <img src="https://img.shields.io/github/stars/sairajKhilariArch/Saarthi-Studio?style=flat-square&logo=github&color=8b5cf6" alt="stars" /> |
+| [SOSLS-OS](https://github.com/sairajKhilariArch/SOSLS-OS) | Shadow OS with Linux from Scratch for game engine and game development | Rust, OS | <img src="https://img.shields.io/github/stars/sairajKhilariArch/SOSLS-OS?style=flat-square&logo=github&color=8b5cf6" alt="stars" /> |
+| [my-linux](https://github.com/sairajKhilariArch/my-linux) | My Arch Linux setup — Hyprland, Neovim, and environment configuration | Shell, Config | <img src="https://img.shields.io/github/stars/sairajKhilariArch/my-linux?style=flat-square&logo=github&color=8b5cf6" alt="stars" /> |
+| [YTDL-TUI](https://github.com/sairajKhilariArch/YTDL-TUI) | A terminal user interface for downloading YouTube videos | Rust, TUI | <img src="https://img.shields.io/github/stars/sairajKhilariArch/YTDL-TUI?style=flat-square&logo=github&color=8b5cf6" alt="stars" /> |
+| [mandala-launcher](https://github.com/sairajKhilariArch/mandala-launcher) | Mandala Launcher — ultra-fast, memory-safe desktop launcher | Rust | <img src="https://img.shields.io/github/stars/sairajKhilariArch/mandala-launcher?style=flat-square&logo=github&color=8b5cf6" alt="stars" /> |
+| [neat-chrome-dinosaur](https://github.com/sairajKhilariArch/neat-chrome-dinosaur) | NEAT algorithm applied to the Chrome Dinosaur game in Python | Python | <img src="https://img.shields.io/github/stars/sairajKhilariArch/neat-chrome-dinosaur?style=flat-square&logo=github&color=8b5cf6" alt="stars" /> |
 
-- Learning ownership, borrowing, and lifetimes.
-- Exploring traits, generics, and error handling.
-- Building CLI tools and systems-oriented projects.
-- Exploring Rust for performance-critical and low-level development.
+</div>
 
-</td>
-<td width="50%" valign="top">
-
-<h3>🐍 Python</h3>
-
-<img src="https://img.shields.io/badge/STATUS-Experimenting-f97316?style=flat-square" alt="Python learning status" />
-
-- Automation, scripting, and rapid prototyping.
-- Building small tools and backend experiments.
-- Improving development workflows with Python.
-- Using Python alongside Rust for practical development.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🎮 Game Development</h3>
-
-<img src="https://img.shields.io/badge/STATUS-Exploring-8b5cf6?style=flat-square" alt="Game development learning status" />
-
-- Learning gameplay programming and engine concepts.
-- Exploring graphics, physics, and input systems.
-- Studying game architecture and design.
-- Building small games and development experiments.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🖥️ OS Development</h3>
-
-<img src="https://img.shields.io/badge/STATUS-Researching-f97316?style=flat-square" alt="OS development learning status" />
-
-- Learning kernels, memory, and process management.
-- Exploring low-level programming and hardware interaction.
-- Studying how operating systems work from the ground up.
-- Developing a deeper understanding of system internals.
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://img.shields.io/badge/View%20all-projects-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+</div>
 
 ---
 
@@ -141,20 +102,21 @@ Vadodara, Gujarat, India
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,neovim,vscode,md&theme=dark" alt="Linux, Git, GitHub, Neovim, VS Code, and Markdown" />
 
-<br/><br/>
+| Language | Use |
+|:---|:---|
+| 🦀 **Rust** | Systems programming, performance-critical and low-level development |
+| 🐍 **Python** | Automation, scripting, rapid prototyping, and AI experiments |
+| 🟨 **C/C++** | Low-level systems, game engines, and OS internals |
+| 🟢 **Go** | Tools and cloud-native utilities |
+| 🟦 **Kotlin** | Android development experiments |
 
-### Technology Badges
+### Operating System & Environment
 
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-<img src="https://img.shields.io/badge/Hyprland-1E1E2E?style=flat-square&logo=linux&logoColor=8b5cf6" alt="Hyprland" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+<img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/Window%20Manager-Hyprland-1E1E2E?style=flat-square&logo=linux&logoColor=8b5cf6" alt="Hyprland" />
+<img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+<img src="https://img.shields.io/badge/Terminal-Kitty-4EAA25?style=flat-square&logo=zsh&logoColor=white" alt="Kitty" />
+<img src="https://img.shields.io/badge/Shell-Zsh-1793D1?style=flat-square&logo=zsh&logoColor=white" alt="Zsh" />
 
 </div>
 
@@ -165,7 +127,7 @@ Vadodara, Gujarat, India
 <div align="center">
 
 <img src="https://img.shields.io/badge/POWERED%20BY-ARCH%20LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Powered by Arch Linux" />
-<img src="https://img.shields.io/badge/WINDOW%20MANAGER-HYPRLAND-8b5cf6?style=for-the-badge&logo=linux&logoColor=white" alt="Hyprland window manager" />
+<img src="https://img.shields.io/badge/WINDOW%20MANAGER-HYPRLAND-1E1E2E?style=for-the-badge&logo=linux&logoColor=8b5cf6" alt="Hyprland" />
 
 </div>
 
@@ -187,13 +149,20 @@ I enjoy experimenting with Linux customization and building a development enviro
 
 <div align="center">
 
+<div display="inline-block">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sairajKhilariArch&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f97316&text_color=c9d1d9" alt="GitHub statistics" />
+
+</div>
+<div display="inline-block" style="margin-left:18px;">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajKhilariArch&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Most used programming languages" />
 
+</div>
+
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sairajKhilariArch&locale=en&mode=daily&theme=radical&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=f97316" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=sairajKhilariArch&locale=en&mode=daily&theme=radial&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=f97316&currStreakLabel=f97316" alt="GitHub contribution streak" />
 
 </div>
 
@@ -211,8 +180,7 @@ I enjoy experimenting with Linux customization and building a development enviro
 
 <img src="https://ghchart.rshah.org/8b5cf6/sairajKhilariArch" alt="Sairaj Khilari's GitHub contribution calendar" width="100%" />
 
-<br/>
-
+<br/><br/>
 *Every contribution is another step in the learning process.*
 
 </div>
@@ -238,7 +206,7 @@ I'm always interested in learning from other developers, exploring new ideas, an
 <div align="center">
 
 <a href="https://github.com/sairajKhilariArch">
-  <img src="https://img.shields.io/badge/GitHub-%40sairajKhilariArch-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-%40sairajKhilariArch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
